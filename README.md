@@ -1,2 +1,2 @@
 # react-template
-My personal minimal react template because CRA is bloated
+My personal minimal react template
